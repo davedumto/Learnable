@@ -645,5 +645,12 @@ input:focus-visible {
   width: 306px;
   border: gray 1px solid;
   color: gray;
+  height: 46px;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  
+}
+select{
   
 }
